@@ -1,0 +1,4 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+ADRESSE		TAR	131	nouvelle taille enregistrement : 131
+ADRESSE	IDCLIENT	RUB+		IDCLIENT est une nouvelle clé
+Contrainte_CLIENT_ADRESSE		NWL	CLIENT (IDCLIENT) et ADRESSE (IDCLIENT)	Nouvelle liaison entre les fichiers CLIENT (IDCLIENT) et ADRESSE (IDCLIENT)
